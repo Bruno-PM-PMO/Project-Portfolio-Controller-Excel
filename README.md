@@ -1,5 +1,5 @@
 # Project Portfolio Controller
-This project automates the consolidation and reporting of strategic project portfolios, eliminating manual effort and ensuring real-time accuracy.
+This project automates the consolidation and reporting of a strategic project portfolio, eliminating manual effort and ensuring real-time accuracy.
 The solution was designed to optimize PMO operations by centralizing multiple project data sources into a single, consistent portfolio view, ready for executive reporting and KPI analysis.
 
 Developed as part of a PMO transformation initiative, it enhances decision-making through visibility, standardization, and efficiency — reducing consolidation time from hours to seconds.
