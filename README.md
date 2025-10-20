@@ -7,6 +7,7 @@ Developed as part of a PMO transformation initiative, it enhances decision-makin
 
 <img width="1711" height="294" alt="image" src="https://github.com/user-attachments/assets/c768b316-2946-45df-b973-369b24e95c25" />
 
+<img width="1653" height="302" alt="image" src="https://github.com/user-attachments/assets/f9cec16b-99fe-45f0-b4c5-bc8d7db27076" />
 
 
 
