@@ -27,6 +27,7 @@ Developed as part of a PMO transformation initiative, it enhances decision-makin
 <img width="959" height="393" alt="image" src="https://github.com/user-attachments/assets/7d8ceb36-0290-4412-a1b0-953a5881b1ee" />
 
 
+
 **Key Insights & Solution**
 
 PMOs often struggle with fragmented reporting and manual data consolidation, which slows down governance cycles.
@@ -34,6 +35,8 @@ PMOs often struggle with fragmented reporting and manual data consolidation, whi
 This tool introduces a lean automation layer using Excel VBA to centralize inputs, ensuring alignment between project teams and portfolio-level reporting.
 
 The solution demonstrates how automation at the PMO level can accelerate value delivery, reduce operational costs, and increase portfolio transparency.
+
+
 
 **Impact**
 
@@ -45,6 +48,7 @@ The solution demonstrates how automation at the PMO level can accelerate value d
 
 - Strategic visibility: Enables executives to make faster, data-driven decisions.
 
+
 **Tools & Approach**
 
 Excel VBA (Visual Basic for Applications) — core automation logic.
@@ -54,6 +58,7 @@ Excel Tables & Named Ranges — structured data architecture.
 Excel Dashboard — optional visualization layer.
 
 Agile & Iterative Development — validated through progressive enhancement.
+
 
 **Files**
 
