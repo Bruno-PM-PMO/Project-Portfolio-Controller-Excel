@@ -9,15 +9,15 @@ Developed as part of a PMO transformation initiative, it enhances decision-makin
 
 **Key Features**
 
-🔄 Automatic Data Aggregation: Merges project updates from multiple files or sheets into a unified portfolio view.
+- Automatic Data Aggregation: Merges project updates from multiple files or sheets into a unified portfolio view.
 
-🧩 Data Validation Rules: Ensures only complete and consistent data entries are included.
+- Data Validation Rules: Ensures only complete and consistent data entries are included.
 
-📊 Executive Dashboard Integration: Provides structured outputs ready for Power BI or Excel dashboards.
+- Executive Dashboard Integration: Provides structured outputs ready for Power BI or Excel dashboards.
 
-🔐 Protected Core Logic (VBA): Prevents unintentional modification of the automation code.
+- Protected Core Logic (VBA): Prevents unintentional modification of the automation code.
 
-⚙️ Fully Editable Framework: Allows users to adapt templates, fields, and parameters without affecting the protected logic.
+- Editable Framework: Allows users to adapt templates, fields, and parameters without affecting the protected logic.
 
 <img width="959" height="393" alt="image" src="https://github.com/user-attachments/assets/7d8ceb36-0290-4412-a1b0-953a5881b1ee" />
 
