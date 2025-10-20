@@ -8,6 +8,7 @@ Developed as part of a PMO transformation initiative, it enhances decision-makin
 <img width="1605" height="495" alt="image" src="https://github.com/user-attachments/assets/8468d23f-d61b-4164-b1b9-9e011014125c" />
 
 
+
 **Key Features**
 
 - Automatic Data Aggregation: Merges project updates from multiple files or sheets into a unified portfolio view.
