@@ -42,7 +42,7 @@ The solution demonstrates how automation at the PMO level can accelerate value d
 
 - 80% reduction in consolidation and validation time.
 
-- 25% improved data reliability, minimizing human error and version conflicts.
+- 25% data reliability improved, minimizing human error and version conflicts.
 
 - Enhanced collaboration between project teams and managers.
 
