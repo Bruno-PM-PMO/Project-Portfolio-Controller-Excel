@@ -19,6 +19,9 @@ Developed as part of a PMO transformation initiative, it enhances decision-makin
 
 ⚙️ Fully Editable Framework: Allows users to adapt templates, fields, and parameters without affecting the protected logic.
 
+<img width="959" height="393" alt="image" src="https://github.com/user-attachments/assets/7d8ceb36-0290-4412-a1b0-953a5881b1ee" />
+
+
 **Key Insights & Solution**
 
 PMOs often struggle with fragmented reporting and manual data consolidation, which slows down governance cycles.
