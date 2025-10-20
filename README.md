@@ -60,6 +60,7 @@ flowchart_process.png — operational workflow diagram.
 _______________________________________________________________________________________________
 
 I welcome suggestions, improvements, and collaborations. Feel free to open issues or send PRs.
+
 **Let’s turn data into decisions together.**
 _______________________________________________________________________________________________
 **Created by Bruno Fierro – Project Manager & PMO | More projects on my GitHub | Project management & PMO insights on my blog.**
