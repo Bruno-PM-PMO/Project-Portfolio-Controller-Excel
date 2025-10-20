@@ -56,6 +56,8 @@ Agile & Iterative Development — validated through progressive enhancement.
 
 Project_Portfolio_Controller.xlsm — main automation file (VBA-protected).
 
+Fictitious dataset
+
 README.md — project overview and documentation.
 
 flowchart_process.png — operational workflow diagram.
