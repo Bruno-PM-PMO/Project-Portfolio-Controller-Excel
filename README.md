@@ -11,7 +11,7 @@ Developed as part of a PMO transformation initiative, it enhances decision-makin
 
 **Key Features**
 
-- Automatic Data Aggregation: Merges project updates from multiple files or sheets into a unified portfolio view.
+- Automatic Data Aggregation: Merges project updates from external files into a unified portfolio view.
 
 - Data Validation Rules: Ensures only complete and consistent data entries are included.
 
