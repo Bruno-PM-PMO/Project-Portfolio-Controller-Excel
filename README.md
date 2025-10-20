@@ -26,6 +26,7 @@ Developed as part of a PMO transformation initiative, it enhances decision-makin
 **Key Insights & Solution**
 
 PMOs often struggle with fragmented reporting and manual data consolidation, which slows down governance cycles.
+
 This tool introduces a lean automation layer using Excel VBA to centralize inputs, ensuring alignment between project teams and portfolio-level reporting.
 
 The solution demonstrates how automation at the PMO level can accelerate value delivery, reduce operational costs, and increase portfolio transparency.
