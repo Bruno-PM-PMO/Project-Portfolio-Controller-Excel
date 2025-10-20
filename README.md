@@ -5,7 +5,8 @@ The solution was designed to optimize PMO operations by centralizing multiple pr
 
 Developed as part of a PMO transformation initiative, it enhances decision-making through visibility, standardization, and efficiency — reducing consolidation time from hours to seconds.
 
-<img width="1605" height="495" alt="image" src="https://github.com/user-attachments/assets/8468d23f-d61b-4164-b1b9-9e011014125c" />
+<img width="1711" height="294" alt="image" src="https://github.com/user-attachments/assets/c768b316-2946-45df-b973-369b24e95c25" />
+
 
 
 
