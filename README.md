@@ -1,10 +1,13 @@
-# Project-Portfolio-Controller
+# Project Portfolio Controller
 This project automates the consolidation and reporting of strategic project portfolios, eliminating manual effort and ensuring real-time accuracy.
 The solution was designed to optimize PMO operations by centralizing multiple project data sources into a single, consistent portfolio view, ready for executive reporting and KPI analysis.
 
 Developed as part of a PMO transformation initiative, it enhances decision-making through visibility, standardization, and efficiency — reducing consolidation time from hours to seconds.
 
-Key Features
+<img width="1605" height="495" alt="image" src="https://github.com/user-attachments/assets/8468d23f-d61b-4164-b1b9-9e011014125c" />
+
+
+**Key Features**
 
 🔄 Automatic Data Aggregation: Merges project updates from multiple files or sheets into a unified portfolio view.
 
@@ -16,7 +19,7 @@ Key Features
 
 ⚙️ Fully Editable Framework: Allows users to adapt templates, fields, and parameters without affecting the protected logic.
 
-Key Insights & Solution
+**Key Insights & Solution**
 
 PMOs often struggle with fragmented reporting and manual data consolidation, which slows down governance cycles.
 This tool introduces a lean automation layer using Excel VBA to centralize inputs, ensuring alignment between project teams and portfolio-level reporting.
