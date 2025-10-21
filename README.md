@@ -64,6 +64,8 @@ Agile & Iterative Development — validated through progressive enhancement.
 Project_Portfolio_Controller.xlsm — main automation file (VBA-protected).
 
 Check this box in order to be able to use macros on this workbook.
+
+
 <img width="347" height="88" alt="image" src="https://github.com/user-attachments/assets/faa616cf-8661-46be-83d7-1d138339ad76" />
 
 
